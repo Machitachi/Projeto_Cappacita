@@ -72,7 +72,10 @@ function batalhaPokemon(id1, id2) {
 }
 
 function curarPokemon(id1, id2) {
-    
+    const pokemon1 = pokemons[id1]
+    const pokemon2 = pokemons[id2]
+
+   
 }
 
 
